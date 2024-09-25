@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Software Engineering student<br>🔭 I’m currently working on 3rd Semester <br>⚡ Mostly doing Java & C#
+🌱 Software Engineering student<br>🔭 I’m currently studying at VIA Horsens <br>⚡ Mostly doing Java & C#
 
 
 # 💻 Tech Stack:
