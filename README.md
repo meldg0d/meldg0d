@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 Software Engineering student<br>🔭 I’m currently studying at VIA Horsens <br>⚡ Mostly doing Java & C#
+🌱 Software Engineering student<br>🔭 I’m currently studying at VIA Horsens <br>⚡ Mostly doing Java & C#  <br> 
+🌍 Check out my portfolio: [meldgod.dk](https://meldgod.dk) 🌐  
+
 
 
 # 💻 Tech Stack:
